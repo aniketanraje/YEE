@@ -462,3 +462,10 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 junit/
+
+
+# ignore zip and csv 
+
+
+*.csv
+*.zip
